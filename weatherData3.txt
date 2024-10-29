@@ -1,0 +1,17 @@
+id:ID83DSE3
+name:Queensland (West Terrace /  ngayirdapira)
+state: QLD
+time_zone:DNT
+lat:52.1
+lon:38.4
+local_date_time:15/09:00pm
+local_date_time_full:20240715160891
+air_temp:9.6
+apparent_t:13.0
+cloud:Partly wet
+dewpt:9.2
+press:422.9
+rel_hum:23
+wind_dir:WE
+wind_spd_kmh:93
+wind_spd_kt:12

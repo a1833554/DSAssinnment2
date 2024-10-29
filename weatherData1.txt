@@ -1,0 +1,17 @@
+id:ID3B3042
+name:Victoria (West Terrace /  ngayirdapira)
+state: VIC
+time_zone:BST
+lat:52.9
+lon:24.6
+local_date_time:15/05:00pm
+local_date_time_full:20230715160123
+air_temp:12.6
+apparent_t:9.0
+cloud:Partly sunny
+dewpt:5.2
+press:543.9
+rel_hum:37
+wind_dir:N
+wind_spd_kmh:32
+wind_spd_kt:42
